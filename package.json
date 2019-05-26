@@ -1,0 +1,14 @@
+{
+    "name": "application-name",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "2.5.5",
+        "gzippo": "0.1.4",
+        "jade": ">= 0.0.1",
+        "mime-types": "^2.1.24",
+        "moment": "1.4.0",
+        "mongojs": ">=0.3.2",
+        "validator": "latest"
+    }
+}
