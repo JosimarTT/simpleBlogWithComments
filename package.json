@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "private": true,
     "dependencies": {
-        "express": "2.5.5",
+        "express": "4.17.3",
         "gzippo": "0.1.4",
         "jade": ">= 0.0.1",
         "mime-types": "^2.1.24",
